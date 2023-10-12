@@ -1,0 +1,186 @@
+/* #content-height{
+
+
+display: flex;
+width: 687.17px;
+padding: 99.02px 20px 89.02px 20px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+align-self: stretch;
+} */
+
+
+#img{
+    display: flex;
+width: 442.05px;
+height: 420.5px;
+max-width: 442.05px;
+padding: 116px 0px 262.5px 384.56px;
+justify-content: flex-end;
+align-items: center;
+}
+#dmspace{
+    padding-left: 128px;
+}
+
+#bg{
+    background-color: #fafbfd;
+background-image: linear-gradient(180deg, #fafbfd 0%, #e7e2ec 100%);
+
+
+}
+.a1{
+    color: rgb(111, 240, 111);
+}
+.a2{
+    color: rgb(107, 44, 107);
+}
+#pd{
+    padding-left: 20px;
+}
+#forth{
+    background-color: #fdfdfd;
+background-image: linear-gradient(270deg, #fdfdfd 0%, #E0C3FC 100%);
+
+}
+
+#sixth{
+    background-color: #bfeaba;
+background-image: linear-gradient(238deg, #bfeaba 0%, #ffffff 100%);
+
+}
+
+#eighth{
+    background-color: #03582a;
+background-image: linear-gradient(180deg, #03582a 0%, #a8ff7d 100%);
+
+}
+
+#eightfont{
+ 
+    color: white;
+}
+#content{
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.black{
+    color: black;
+    
+}
+
+.new{
+    text-align: center;
+}
+
+#cd1{
+    background-color: #d4e8dd;
+background-image: linear-gradient(45deg, #d4e8dd 0%, #bcd4b7 100%);
+margin-left: 30px;
+margin-right: 25px;
+
+padding-left: 30px;
+padding-right: 20px;
+border-radius: 12px;
+}
+
+#cd2{
+    background-color: #f7f7f7;
+background-image: linear-gradient(45deg, #f7f7f7 0%, #f3f7f3 100%);
+margin-left: 25px;
+margin-right: 10px;
+padding-left: 20px;
+padding-right: 1px;
+border-radius: 12px;
+}
+
+#cd3{
+    background-color: #D9D2E9;
+    margin-left: 25px;
+    margin-right: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 12px;
+}
+#a8{
+    text-align: center;
+}
+#a9{
+    color: #401a63;
+}
+
+.a7{
+    color: #58c422;
+    text-size-adjust: 200px;
+}
+
+.btn2{
+    border-radius: 15px;
+    border-color: green;
+    color: green;
+    width: 50%;
+}
+#ls{
+    text-align: center;
+}
+#aa{
+    color: green;
+}
+#ab{
+    text-align: center;
+   
+
+}
+#br{
+    border-radius: 10px;
+    border-style: solid;
+    margin-left: 10px;
+    padding-top: 150px;
+
+  
+}
+.au{
+    color: #714996;
+}
+
+.gr{
+    color: green;
+}
+
+.bu{
+    background-color:#58c422;
+    color: white;
+    border-radius: 10px;
+    border-color: greenyellow;
+}
+.w1{
+    width: 100%;
+    border-radius: 12px;
+   
+}
+
+#bgc{
+background-image: url('./assets/bggirl.png');
+height: 500px;
+}
+
+#co{
+    border-radius: 12px;
+    background-color: #714996;
+    color: white;
+}
+
+#tr{
+    border-color:  #58c422;
+    color: #58c422;
+    width: 120px;
+}
+#ta{
+    background-color: #58c422;
+    color: white;
+    border-color: #58c422;
+}
